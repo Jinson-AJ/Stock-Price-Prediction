@@ -9,10 +9,15 @@ This project uses Python to fetch and analyze historical stock price data from Y
 - **numpy**
 - **matplotlib**
 - **seaborn**
-- **yfinance**
 - **scikit-learn**
 - **tensorflow** (for future deep learning models)
 
-## Setup Instructions
+## Data Source: Tesla Stock Price CSV from Kaggle
 
-1. **Clone the Repository**
+This project uses historical Tesla stock price data downloaded from Kaggle. The dataset includes the following columns:
+- **Date**
+- **Open**
+- **High**
+- **Low**
+- **Close**
+- **Volume**
