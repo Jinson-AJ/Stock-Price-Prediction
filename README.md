@@ -22,7 +22,7 @@ This project uses historical Tesla stock price data downloaded from Kaggle. The 
 - **Close**
 - **Volume**
 - 
-##Data Preprocessing
+## Data Preprocessing
 
 Clean and enhance the dataset by performing the following operations:
 - **Data Cleaning:**  
